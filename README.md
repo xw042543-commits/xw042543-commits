@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="profile-banner-v2.png" alt="Software engineering workflow from mobile interfaces through code and data structures to a database" width="100%">
+  <img src="profile-banner-animated.gif" alt="Animated software engineering workspace" width="100%">
 </p>
 
-<h1 align="center">Build. Debug. Improve.</h1>
-
 <p align="center">
-  Turning ideas into working software — from mobile interfaces to concurrent systems and algorithms.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7C6CFF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Build.+Debug.+Improve.;Mobile+Apps+%E2%86%92+Systems+%E2%86%92+Algorithms;Turning+ideas+into+working+software" alt="Animated headline">
 </p>
 
 <p align="center">
@@ -16,7 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-## Selected work
+## ✦ Selected work
 
 <table>
   <tr>
@@ -36,12 +34,12 @@
       <h3>🧩 Record System</h3>
       <p>A dynamic array built from scratch with CSV validation, merge sort, binary search, and performance tests.</p>
       <p><code>C++</code> <code>DSA</code> <code>File I/O</code> <code>Error Handling</code></p>
-      <a href="https://github.com/xw042543-commits/datawork_member-2"><strong>Explore project →</strong></a>
+      <a href="https://github.com/xw042543-commits/cpp-student-record-management-system"><strong>Explore project →</strong></a>
     </td>
   </tr>
 </table>
 
-## Engineering toolkit
+## ◈ Engineering toolkit
 
 | Area | Tools and concepts |
 |---|---|
@@ -50,7 +48,7 @@
 | **Software design** | Java, Python, OOP, layered architecture |
 | **Quality and workflow** | Automated testing, debugging, Git, GitHub, Linux |
 
-## What I care about
+## ◎ What I care about
 
 ```text
 clear structure  →  testable behaviour  →  useful software
