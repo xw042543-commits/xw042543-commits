@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="profile-banner-animated.gif" alt="Animated software engineering workspace" width="100%">
-</p>
+<h1 align="center">Build. Debug. Improve.</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7C6CFF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Build.+Debug.+Improve.;Mobile+Apps+%E2%86%92+Systems+%E2%86%92+Algorithms;Turning+ideas+into+working+software" alt="Animated headline">
-</p>
+<p align="center">Mobile apps · Concurrent systems · Algorithms</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
