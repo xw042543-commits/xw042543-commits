@@ -1,6 +1,6 @@
 <h1 align="center">Build. Debug. Improve.</h1>
 
-<p align="center">Mobile apps · Concurrent systems · Algorithms</p>
+<p align="center">Mobile apps · Concurrent systems · Data infrastructure</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -27,10 +27,10 @@
       <a href="https://github.com/xw042543-commits/AirportSimulation"><strong>Explore project →</strong></a>
     </td>
     <td width="33%" valign="top">
-      <h3>🧩 Record System</h3>
-      <p>A dynamic array built from scratch with CSV validation, merge sort, binary search, and performance tests.</p>
-      <p><code>C++</code> <code>DSA</code> <code>File I/O</code> <code>Error Handling</code></p>
-      <a href="https://github.com/xw042543-commits/cpp-student-record-management-system"><strong>Explore project →</strong></a>
+      <h3>🗃️ LedgerKV</h3>
+      <p>A persistent C++20 key-value store with concurrent access, WAL recovery, TTL expiry, checksums, and compaction.</p>
+      <p><code>C++20</code> <code>Concurrency</code> <code>Persistence</code> <code>CMake</code></p>
+      <a href="https://github.com/xw042543-commits/LedgerKV"><strong>Explore project →</strong></a>
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
 | Area | Tools and concepts |
 |---|---|
 | **Application development** | Flutter, Dart, Firebase, REST APIs, databases |
-| **Systems and algorithms** | C, C++, data structures, algorithms, file I/O |
+| **Systems and algorithms** | C, C++20, concurrency, data structures, persistence, file I/O |
 | **Software design** | Java, Python, OOP, layered architecture |
 | **Quality and workflow** | Automated testing, debugging, Git, GitHub, Linux |
 
@@ -50,7 +50,7 @@
 clear structure  →  testable behaviour  →  useful software
 ```
 
-I enjoy breaking technical problems into small, verifiable parts and learning what happens beneath the interface. Each project here focuses on a different engineering challenge: product workflows, concurrent coordination, or algorithmic efficiency.
+I enjoy breaking technical problems into small, verifiable parts and learning what happens beneath the interface. Each project here focuses on a different engineering challenge: product workflows, concurrent coordination, or reliable data storage.
 
 <p align="center">
   <a href="https://github.com/xw042543-commits?tab=repositories"><strong>View all repositories</strong></a>
